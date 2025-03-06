@@ -38,3 +38,9 @@ naggix@naggix-studio:~$ rm -f file_name      # حذف ملف بالقوة دون
 naggix@naggix-studio:~$ rm -i file_name      # إظهار تنبيه عند كل عملية حذف
 ```
 ![](./images/file_and_dir_management/0006.png)
+
+```bash
+naggix@naggix-studio:~$ cp old_dir/file new_dir/file    # نسخ مجلد من مكان لآخر
+naggix@naggix-studio:~$ cp old_name new_name            # إعادة تسمية الملف
+```
+![](./images/file_and_dir_management/0007.png)
